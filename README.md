@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chandoli21/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chandoli21/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chandoli21/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/chandoli21/LeetCode/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
