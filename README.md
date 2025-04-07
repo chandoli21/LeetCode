@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chandoli21/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chandoli21/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/chandoli21/LeetCode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/chandoli21/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chandoli21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chandoli21/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/chandoli21/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/chandoli21/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
