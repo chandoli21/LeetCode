@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/chandoli21/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/chandoli21/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chandoli21/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/chandoli21/LeetCode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chandoli21/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/chandoli21/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chandoli21/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/chandoli21/LeetCode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
