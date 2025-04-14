@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chandoli21/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chandoli21/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chandoli21/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/chandoli21/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chandoli21/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chandoli21/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandoli21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/chandoli21/LeetCode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chandoli21/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/chandoli21/LeetCode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
