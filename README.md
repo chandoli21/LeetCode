@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/chandoli21/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandoli21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/chandoli21/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/chandoli21/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chandoli21/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chandoli21/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandoli21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chandoli21/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandoli21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chandoli21/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/chandoli21/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
