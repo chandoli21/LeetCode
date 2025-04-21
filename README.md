@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chandoli21/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/chandoli21/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/chandoli21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/chandoli21/LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/chandoli21/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/chandoli21/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
