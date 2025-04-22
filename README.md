@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/chandoli21/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/chandoli21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/chandoli21/LeetCode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/chandoli21/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandoli21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chandoli21/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chandoli21/LeetCode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/chandoli21/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
