@@ -149,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/chandoli21/LeetCode/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/chandoli21/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/chandoli21/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/chandoli21/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
