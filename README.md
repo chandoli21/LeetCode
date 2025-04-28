@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chandoli21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/chandoli21/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandoli21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/chandoli21/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/chandoli21/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chandoli21/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandoli21/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/chandoli21/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/chandoli21/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/chandoli21/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
