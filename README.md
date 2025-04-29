@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/chandoli21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/chandoli21/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandoli21/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1319-unique-number-of-occurrences](https://github.com/chandoli21/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chandoli21/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chandoli21/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chandoli21/LeetCode/tree/master/0383-ransom-note) |
+| [1319-unique-number-of-occurrences](https://github.com/chandoli21/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
