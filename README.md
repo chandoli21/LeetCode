@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/chandoli21/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/chandoli21/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chandoli21/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/chandoli21/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/chandoli21/LeetCode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/chandoli21/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
