@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chandoli21/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandoli21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chandoli21/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/chandoli21/LeetCode/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/chandoli21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandoli21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chandoli21/LeetCode/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chandoli21/LeetCode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandoli21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chandoli21/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chandoli21/LeetCode/tree/master/0392-is-subsequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandoli21/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/chandoli21/LeetCode/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/chandoli21/LeetCode/tree/master/0605-can-place-flowers) |
 ## Binary Search Tree
 |  |
